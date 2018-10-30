@@ -1,7 +1,7 @@
 # Netflux
 Replicate the Netflix web interface.
 
-The purspose of this project is replicate the interfaz of Netflix web.
+The purpose of this project is to replicate the of Netflix web interfaz.
 
 ![alt text](screenshot.jpg)
 
